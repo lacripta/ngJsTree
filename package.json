@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/ezraroi/ngJsTree",
   "dependencies": {
-        "angular": "~1.4",
-        "jstree" : "~3.2.1"
+        "angular": "~1.5.7",
+        "jstree" : "~3.3.1"
     },
   "devDependencies": {
     "grunt": "^0.4.5",
