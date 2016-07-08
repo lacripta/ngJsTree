@@ -12,7 +12,7 @@
         "JsTree"
     ],
     "dependencies": {
-        "angular": "~1.5",
+        "angular": "~1.5.7",
         "jstree" : "~3.3.1"
     },
     "license": "MIT",
@@ -27,9 +27,5 @@
         "Gruntfile.js",
         "package.json",
         "README.md"
-    ],
-    "devDependencies": {
-        "angular-mocks": "~1.4",
-        "jquery": "~2.1.1"
-    }
+    ]
 }
